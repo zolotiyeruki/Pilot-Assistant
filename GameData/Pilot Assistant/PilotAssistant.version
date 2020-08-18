@@ -3,5 +3,5 @@
     "URL":         "https://github.com/zolotiyeruki/Pilot-Assistant/raw/master/GameData/Pilot%20Assistant/PilotAssistant.version",
     "DOWNLOAD":    "https://github.com/zolotiyeruki/Pilot-Assistant/releases",
     "VERSION":     {"MAJOR":1, "MINOR":13, "PATCH":4},
-    "KSP_VERSION": {"MAJOR":1, "MINOR":9}
+    "KSP_VERSION": {"MAJOR":1, "MINOR":10}
 }
